@@ -1,5 +1,6 @@
-# Зміст
+# Summary
 
+* [Зміст](README.md)
 * [Вступне слово](/1lec/vstup.md)
 * [Слова з літерою Ґ](/1lec/slova_z_literoyu_g.md)
 * [Транскрипція](/1lec/transkriptsiya.md)
