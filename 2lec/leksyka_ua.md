@@ -8,7 +8,7 @@
     <center><b>Запозичене слово</b></center>
   </td>
   <td>
-    <center><b>Запозичене слово</b></center>
+    <center><b>Українські відповідники</b></center>
   </td>
 </tr> 
 <tr>
