@@ -8,12 +8,13 @@
 * [Наголос](/1lec/nagolos.md)
   ## Лекція 2
 * [Транскрипція](/1lec/transkriptsiya.md)
-* [Чергування у – в, і – й](/1lec/cherguvannya_u_v.md)
 * [Класифікація звуків](/1lec/klasyficaciya.md)
-* [Чергування](/1lec/cherguvannya.md)
 * [Голосні звуки](/1lec/golosni_zvuki.md)
 * [Складні випадки вимови звукосполук](/1lec/skladni_vipadki_zvukospoluk.md)
 * [Приголосні звуки](/1lec/prigolosni_zvuki.md)
+
+* [Чергування](/1lec/cherguvannya.md)
+* [Чергування у – в, і – й](/1lec/cherguvannya_u_v.md)
 * [Правопис сумнівних голосних](/2lec/pravopys.md)
 * [Лексикологія](/2lec/leksykologita.md)
 * [Пароніми](/2lec/paronimy.md)
