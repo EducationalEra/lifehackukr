@@ -1,6 +1,6 @@
 # Summary
 
-## Лекція 1
+## Розділ 1
 * [Зміст](README.md)
 * [Вступне слово](/1lec/vstup.md)
 * [Абетка](/1lec/abetka.md)
@@ -14,17 +14,17 @@
 * [Чергування у – в, і – й](/1lec/cherguvannya_u_v.md)
 * [Наголос](/1lec/nagolos.md)
 
-## Лекція 2
+## Розділ 2
 * [Правопис сумнівних голосних](/2lec/pravopys.md)
 * [Лексикологія](/2lec/leksykologita.md)
 * [Пароніми](/2lec/paronimy.md)
 * [Ознаки іншомовних слів](/2lec/inshomovni_slova.md)
 * [Українські відповідники до іншомовних слів](/2lec/leksyka_ua.md)
 
-## Лекція 3
+## Розділ 3
 * [Спрощення в групах приголосних](/3lec/sprochennya.md)
 * [Подовження та подвоєння приголосних](/3lec/podovjennya.md)
 
-## Лекція 4
+## Розділ 4
 * [Будова слова](/4lec/budova_slova.md)
 * [Способи словотворення](/4lec/sprochennya.md)
