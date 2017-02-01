@@ -3,6 +3,8 @@ $(document).ready(function() {
     var href, $lastLink;
 
     $("a.toggle-search").remove();
+    $lastLink = $(".custom-link:last");
+    $lastLink.remove();
   }
   init();
   require(["gitbook"], function (gitbook) {
