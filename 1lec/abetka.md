@@ -22,7 +22,7 @@
   <td><center><b>А а</b></center></td>
   <td><center><i>а</i></center></td>
   <td><center></center></td>
-  <td rowspan="18" class="row-span"><center><b>СОНОРНІ ТА ДЗВІНКІ, КРІМ К</b></center></td>
+  <td rowspan="18" class="row-span"><center><b>СОНОРНІ ТА ДЗВІНКІ, КРІМ <span class="p1">К</span></b></center></td>
   </tr>
 
   <tr>
