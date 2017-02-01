@@ -63,7 +63,7 @@
   <tr>
   <td><center><b>Є є</b></center></td>
   <td><center><i>є</i></center></td>
-  <td><center>1[е] або 2 [йе] звуки: на початку слова, після голосного, Ь й апострофа</center></td>
+  <td><center>1 <span class="p1">[е]</span> або 2 <span class="p1">[йе]</span> звуки: на початку слова, після голосного, Ь й апострофа</center></td>
   </tr>
 
   <tr>
@@ -93,7 +93,7 @@
   <tr>
   <td><center><b>Ї ї</b></center></td>
   <td><center><i>ї</i></center></td>
-  <td><center>завжди 2 [йі]</center></td>
+  <td><center>завжди 2 <span class="p1">[йі]</span></center></td>
   </tr>
 
   <tr>
@@ -130,7 +130,7 @@
   <td><center><b>О о</b></center></td>
   <td><center><i>о</i></center></td>
   <td><center></center></td>
-  <td rowspan="15" class="row-span"><center><b>ГЛУХІ, КРІМ Р</b></center></td>
+  <td rowspan="15" class="row-span"><center><b>ГЛУХІ, КРІМ <span class="p1">Р</span></b></center></td>
   </tr>
 
   <tr>
@@ -196,7 +196,7 @@
   <tr>
   <td><center><b>Щ щ</b></center></td>
   <td><center><i>ща</i></center></td>
-  <td><center>завжди 2 [шч]</center></td>
+  <td><center>завжди 2 <span class="p1">[шч]</span></center></td>
   </tr>
 
   <tr>
@@ -208,7 +208,7 @@
   <tr>
   <td><center><b>Ю ю</b></center></td>
   <td><center><i>ю</i></center></td>
-  <td rowspan="2">1 [у], [а] або 2 [йу], [йа] звуки: на початку слова, після голосного, Ь й апострофа</center></td>
+  <td rowspan="2">1 <span class="p1">[у]</span>, <span class="p1">[а]</span> або 2 <span class="p1">[йу]</span>, <span class="p1">[йа]</span> звуки: на початку слова, після голосного, Ь й апострофа</center></td>
   </tr>
 
   <tr>
@@ -235,7 +235,7 @@
 <td colspan="2"><center><b>38 звуків</b></center></td>
 </tr>
 <tr>
-  <td><center>6 голосних (творяться за участю лише голосу): <b>[а], [о], [у], [е], [и], [і]</b></center></td>
+  <td><center>6 голосних (творяться за участю лише голосу): <span class="p1">[а], [о], [у], [е], [и], [і]</span></center></td>
   <td><center>32 приголосних (складаються з голосу та шуму або тільки з шуму)</center></td>
 </tr>
 </table>
