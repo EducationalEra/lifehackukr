@@ -2,7 +2,8 @@
 
 * [Зміст](README.md)
 * [Вступне слово](/1lec/vstup.md)
-  ## Лекція 1
+
+## Лекція 1
 * [Абетка](/1lec/abetka.md)
 * [Слова з літерою Ґ](/1lec/slova_z_literoyu_g.md)
 * [Транскрипція](/1lec/transkriptsiya.md)
@@ -20,10 +21,11 @@
 * [Пароніми](/2lec/paronimy.md)
 * [Ознаки іншомовних слів](/2lec/inshomovni_slova.md)
 * [Українські відповідники до іншомовних слів](/2lec/leksyka_ua.md)
-  ## Лекція 3
+
+## Лекція 3
 * [Спрощення в групах приголосних](/3lec/sprochennya.md)
 * [Подовження та подвоєння приголосних](/3lec/podovjennya.md)
 
-  ## Лекція 4
+## Лекція 4
 * [Будова слова](/4lec/budova_slova.md)
 * [Способи словотворення](/4lec/sprochennya.md)
