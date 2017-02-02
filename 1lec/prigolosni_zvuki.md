@@ -62,8 +62,8 @@
   <td>[$$\widehat{дж}$$], [$$\widehat{дз}$$]</td>
   <td>
   <ol>
-  <li>вимовляються як один звук (африкати): [$$\widehat{дж}м’іл'$$], [$$\widehat{дз}в\acute{о}ник$$];</li>
-<li>вимовляються як окремі звуки, якщо належать до різних морфем: [п'іджеину&#769;], [в'ідзиева&#769;ти]</li>
+  <li>вимовляються як один звук (африкати): [$$\widehat{дж}м'іл'$$], [$$\widehat{дз}в\acute{о}ник$$];</li>
+<li>вимовляються як окремі звуки, якщо належать до різних морфем: <span style="white-space: nowrap">[$$п'і\widehat{дж}е^{и}н\acute{у}$$], <span style="white-space: nowrap">[$$в'і\widehat{дз}и^{е}в\acute{а}ти$$]</span></li>
 </ol></td>
   <td>Ведмедику-ледащо,<br>
 Ліз на пасіку нащо?<br>
@@ -73,8 +73,8 @@
 
    <tr>
   <td><b>Передньоязикові</b><br>
-[$$д$$], [$$т$$], [$$з$$], [$$с$$],<br>
-[$$ц$$], [$$л$$], [$$н$$]<br>
+<span style="white-space: nowrap">[$$д$$],</span> <span style="white-space: nowrap">[$$т$$],</span> <span style="white-space: nowrap">[$$з$$],</span> <span style="white-space: nowrap">[$$с$$],</span>
+<span style="white-space: nowrap">[$$ц$$],</span> <span style="white-space: nowrap">[$$л$$],</span> <span style="white-space: nowrap">[$$н$$]</span><br>
 («Де ти з’їси ці лини?»)
 </td>
   <td>перед наступними м’якими і пом’якшеними приголосними вимовляються м’яко</td>

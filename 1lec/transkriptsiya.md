@@ -16,24 +16,24 @@
   <td></td>
   </tr>
   <tr>
-  <td>[$$\acute{о}$$]</td>
+  <td><span style="white-space: nowrap">[$$\acute{о}$$]</span></td>
   <td>якщо слово має більше ніж один склад, над відповідним голосним ставлять наголос</td>
-  <td>[$$зуб$$],<br>[$$з\acute{у}би$$]</td>
+  <td><span style="white-space: nowrap">[$$зуб$$],</span><br><span style="white-space: nowrap">[$$з\acute{у}би$$]</span></td>
   </tr>
    <tr>
   <td>[$$т:$$]</td>
   <td>подовжені та подвоєні приголосні позначають двокрапкою</td>
-  <td>[$$жи^ет:\acute{а}$$]</td>
+  <td><span style="white-space: nowrap">[$$жи^ет:\acute{а}$$]</span></td>
   </tr>
    <tr>
   <td>[$$р′$$]</td>
   <td>м’якість приголосного позначають за допомогою скісної рисочки вгорі після нього</td>
-  <td>[$$р′\acute{і}чка$$]</td>
+  <td><span style="white-space: nowrap">[$$р′\acute{і}чка$$]</span></td>
   </tr>
   <tr>
   <td>[$$м′$$]</td>
   <td>знак [$$\,′\,$$] означає напівпом’якшення приголосного</td>
-  <td>[$$м′\acute{і}сто$$]</td>
+  <td><span style="white-space: nowrap">[$$м′\acute{і}сто$$]</span></td>
   </tr>
   <tr>
   <td>[$$\,j\,$$]</td>
@@ -43,21 +43,22 @@
   <tr>
   <td>[$$\widehat{\,\,}$$]</td>
   <td>для позначення злитої вимови африкат</td>
-  <td>[$$\widehat{дж}м′іл′$$]<br>
-  [$$\widehat{дз}′в′ін$$]</td>
+  <td><span style="white-space: nowrap">[$$\widehat{дж}м′іл′$$],</span><br>
+  <span style="white-space: nowrap">[$$\widehat{дз}′в′ін$$]</span></td>
   </tr>
   <tr>
   <td>[$$ў$$],<br>[$$ǐ$$]</td>
   <td>для позначення нескладових (напівголосних– напівприголосних) звуків</td>
-  <td>[$$ǐшоў$$] (йшов)</td>
+  <td><span style="white-space: nowrap">[$$ǐшоў$$]</span><br>(йшов)</td>
   </tr>
   <tr>
   <td>[$$е^{и}$$],<br>[$$и^е$$],<br>[$$о^{у}$$]</td>
   <td>маленькі літери збоку вгорі вказують, до якого звука наближається звучання</td>
-  <td>[$$се^{и}л\acute{о}$$],<br>[$$зи^{е}м\acute{а}$$],<br>[$$ко^{у}ж\acute{у}х$$]</td>
+  <td><span style="white-space: nowrap">[$$се^{и}л\acute{о}$$],</span><br><span style="white-space: nowrap">[$$зи^{е}м\acute{а}$$],</span><br><span style="white-space: nowrap">[$$ко^{у}ж\acute{у}х$$]</span></td>
   </tr>
   <tr>
-  <td>[&emsp;|&emsp;], [&emsp;||&emsp;]</td>
+  <td>[&emsp;|&emsp;],<br>
+  [&emsp;||&emsp;]</td>
   <td>Одна вертикальна риска означає звичайну паузу, дві – тривалу паузу на межі речень.</td>
   <td></td>
   </tr>

@@ -29,9 +29,9 @@
   <td><center><b>Як запам’ятати</b></center></td> 
   <td><center><b>Для чого мені це знати?</b> (зв’язок із іншими розділами мовознавства)</center></td> 
   <tr>
-	<td rowspan="3" class="row-span">звучність</td>
+	<td rowspan="3" class="row-span"><b>звучність</b></td>
 	<td><center><b>cонорні</b></center></td>
-	<td>[$$м$$], [$$в$$], [$$н$$], [$$н′$$], [$$л$$], [$$л′$$], [$$р$$], [$$р′$$], [$$й$$]</td>
+	<td><span style="white-space: nowrap">[$$м$$],</span> <span style="white-space: nowrap">[$$в$$],</span> <span style="white-space: nowrap">[$$н$$],</span> <span style="white-space: nowrap">[$$н′$$],</span> <span style="white-space: nowrap">[$$л$$],</span> <span style="white-space: nowrap">[$$л′$$],</span> <span style="white-space: nowrap">[$$р$$],</span> <span style="white-space: nowrap">[$$р′$$],</span> <span style="white-space: nowrap">[$$й$$]</span></td>
 	<td>«Ми винили рай»</td>
 	<td rowspan="3" class="row-span">
 		орфоепія (уподібнення звуків), орфографія (правопис дзвінких і глухих приголосних, правопис префіксів)
@@ -42,7 +42,7 @@
   		<center><b>шумні</b></center>
   	</td>
   	<td>
-  		<b>глухі:</b> [$$с$$], [$$с′$$], [$$ц$$], [$$ц′$$], [$$к$$], [$$ф$$], [$$п$$], [$$т$$], [$$т′$$], [$$х$$], [$$ч$$], [$$ш$$]
+  		<b>глухі:</b> <span style="white-space: nowrap">[$$с$$],</span> <span style="white-space: nowrap">[$$с′$$],</span> <span style="white-space: nowrap">[$$ц$$],</span> <span style="white-space: nowrap">[$$ц′$$],</span> <span style="white-space: nowrap">[$$к$$],</span> <span style="white-space: nowrap">[$$ф$$],</span> <span style="white-space: nowrap">[$$п$$],</span> <span style="white-space: nowrap">[$$т$$],</span> <span style="white-space: nowrap">[$$т′$$],</span> <span style="white-space: nowrap">[$$х$$], <span style="white-space: nowrap">[$$ч$$],</span> <span style="white-space: nowrap">[$$ш$$]</span>
   	</td>
   	<td>
   		«Усе це кафе, птах і чаша»
@@ -55,38 +55,38 @@
   <tr>
   	<td rowspan="4" class="row-span"><center><b>активний мовний орган</b></center></td>
   	<td><center><b>Губні</b></center></td>
-  	<td>[$$б$$], [$$п$$], [$$в$$], [$$м$$], [$$ф$$]</td>
+  	<td><span style="white-space: nowrap">[$$б$$],</span> <span style="white-space: nowrap">[$$п$$],</span> <span style="white-space: nowrap">[$$в$$],</span> <span style="white-space: nowrap">[$$м$$],</span> <span style="white-space: nowrap">[$$ф$$]</span></td>
   	<td>«Мавпа Буф»</td>
   	<td>орфоепія (пом’якшення приголосних), орфографія (апостроф)</td>
   </tr>
   <tr>
   	<td rowspan="2" class="row-span"><center><b>язикові</b></center></td>
-  	<td><b>зубні:</b> [$$д$$], [$$д′$$], [$$т$$], [$$т′$$], [$$з$$], [$$з′$$], [$$с$$], [$$с′$$], [$$ц$$], [$$ц′$$], [$$л$$], [$$л′$$], [$$н$$], [$$н′$$], [$$дз$$], [$$дз′$$]</td>
-  	<td>«Де ти з’їси ці лини» + [$$\widehat{дз}$$]</td>
+  	<td><b>зубні:</b> <span style="white-space: nowrap">[$$д$$],</span> <span style="white-space: nowrap">[$$д′$$],</span> <span style="white-space: nowrap">[$$т$$],</span> <span style="white-space: nowrap">[$$т′$$],</span> <span style="white-space: nowrap">[$$з$$],</span> <span style="white-space: nowrap">[$$з′$$],</span> <span style="white-space: nowrap">[$$с$$],</span> <span style="white-space: nowrap">[$$с′$$],</span> <span style="white-space: nowrap">[$$ц$$],</span> <span style="white-space: nowrap">[$$ц′$$],</span> <span style="white-space: nowrap">[$$л$$],</span> <span style="white-space: nowrap">[$$л′$$],</span> <span style="white-space: nowrap">[$$н$$],</span> <span style="white-space: nowrap">[$$н′$$],</span> <span style="white-space: nowrap">[$$дз$$],</span> <span style="white-space: nowrap">[$$дз′$$]</span></td>
+  	<td>«Де ти з’їси ці лини» + <span style="white-space: nowrap">[$$\widehat{дз}$$]</span></td>
   	<td>орфографія (подовження, м’який знак)</td>
   </tr>
   <tr>
   	<td><b>задньоязикові</b></td>
-  	<td>[$$ґ$$], [$$к$$], [$$х$$]</td>
+  	<td><span style="white-space: nowrap">[$$ґ$$],</span> <span style="white-space: nowrap">[$$к$$],</span> <span style="white-space: nowrap">[$$х$$]</span></td>
   	<td>орфоепія (пом’якшення приголосних), орфографія (апостроф, м’який знак)</td>
   </tr>
   <tr>
   	<td><center><b>Глотковий</b></center></td>
   	<td></td>
-  	<td>[$$г$$]</td>
+  	<td><span style="white-space: nowrap">[$$г$$]</span></td>
   	<td>орфоепія (пом’якшення приголосних), орфографія (апостроф, м’який знак)</td>
   </tr>
   <tr>
   	<td><center><b>твердість чи м’якість</b></center></td>
   	<td><center><b>м’які</b></center></td>
-  	<td><b>мають тверді пари:</b> [$$д′$$], [$$т′$$], [$$з′$$], [$$с′$$], [$$ц′$$], [$$л′$$], [$$н′$$], [$$р′$$], [$$дз′$$] + [$$й$$]</td>
-  	<td>«Де ти з’їси ці лини + [$$р$$], [$$дз$$]».<br>
-  	<span class="p1">УВАГА!</span> [$$й$$] – завжди м’який</td>
+  	<td><b>мають тверді пари:</b> <span style="white-space: nowrap">[$$д′$$],</span> <span style="white-space: nowrap">[$$т′$$],</span> <span style="white-space: nowrap">[$$з′$$],</span> <span style="white-space: nowrap">[$$с′$$],</span> <span style="white-space: nowrap">[$$ц′$$],</span> <span style="white-space: nowrap">[$$л′$$],</span> <span style="white-space: nowrap">[$$н′$$],</span> <span style="white-space: nowrap">[$$р′$$],</span> <span style="white-space: nowrap">[$$дз′$$]</span> + <span style="white-space: nowrap">[$$й$$]</span></td>
+  	<td>«Де ти з’їси ці лини + <span style="white-space: nowrap">[$$р$$],</span> <span style="white-space: nowrap">[$$\widehat{дз}$$]».</span><br>
+  	<span class="p1">УВАГА!</span> <span style="white-space: nowrap">[$$й$$]</span> – завжди м’який</td>
   	<td rowspan="2" class="row-span">орфоепія (м’якість і пом’якшення приголосних), орфографія (апостроф, м’який знак)</td>
   </tr>
   <tr>
   	<td><center><b>тверді</b></center></td>
-  	<td><b>не мають парних м’яких, можуть бути лише пом’якшеними (13):</b> <b>НЕ</b> «Де ти з’їси ці лини + [$$р$$], [$$дз$$]» + <b>ті, які мають мякі пари</b> (див. вище).</td>
+  	<td><b>не мають парних м’яких, можуть бути лише пом’якшеними (13):</b> <b>НЕ</b> «Де ти з’їси ці лини + <span style="white-space: nowrap">[$$р$$],</span> <span style="white-space: nowrap">[$$\widehat{дз}$$]</span>» + <b>ті, які мають мякі пари</b> (див. вище).</td>
   	<td>губні, задньоязикові, глотковий, шиплячі</td>
   	<td></td>
   </tr>
