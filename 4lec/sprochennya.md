@@ -94,3 +94,14 @@
 Слово <span class="p1"><i>подорожній</i></span> утворене префіксальним способом (<span class="p1"><i>подорожній</i></span> «мінус» <span class="p1"><i>дорожній</i></span> = <span class="p1"><i>по-</i></span>, це префікс); слово <span class="p1"><i>дорожній</i></span> – суфіксальним (<span class="p1"><i>дорожній</i></span> «мінус» <span class="p1"><i>дорога</i></span> = <span class="p1"><i>-н(ій)</i></span>; <span class="p1"><i>-н-</i></span> – це суфікс).
 </div>
 </div>
+
+<quiz name="Запитання та завдання">
+<question>
+        <p>Префіксальним способом утворене слово</p>
+        <answer> узлісся</answer>
+        <answer> перебіг</answer>
+        <answer> розбризкувати</answer>
+        <answer> переїдання</answer>
+        <answer correct> підвид</answer>
+    </question>
+</quiz>

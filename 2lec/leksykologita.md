@@ -150,3 +150,14 @@
   <td>двадцять, вони, пишу, робота, гарненький, вітрюга</td>
   </tr>
 </table>
+
+<quiz name="Запитання та завдання">
+<question>
+        <p>Синонімом до слова <i>світлина</i> є слово:</p>
+        <answer> галявина</answer>
+        <answer> день</answer>
+        <answer correct> фотографія</answer>
+        <answer> люстра</answer>
+        <answer> всесвіт</answer>
+    </question>
+</quiz>

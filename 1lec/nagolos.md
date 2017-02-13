@@ -195,3 +195,22 @@
 	<td>рУкопись, лЕтопись</td>
 	</tr>
 </table>
+<quiz name="Запитання та завдання">
+<question>
+        <p>Другий склад наголошений у всіх словах рядка:</p>
+        <answer correct> допізна, адже, танок</answer>
+        <answer> експерт, квартал, оцет</answer>
+        <answer> тополя, середина, спина</answer>
+        <answer> або, ринковий, статуя</answer>
+        <answer> житло, каталог, дочка</answer>
+    </question>
+<question>
+        <p>На перший склад падає наголос у слові</p>
+        <answer correct> косий</answer>
+        <answer> жалюзі</answer>
+        <answer> перепис</answer>
+        <answer> дочка</answer>
+        <answer> адже</answer>
+    </question>
+</quiz>
+

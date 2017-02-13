@@ -28,3 +28,23 @@
 ## Розділ 4
 * [Будова слова](/4lec/budova_slova.md)
 * [Способи словотворення](/4lec/sprochennya.md)
+
+## Розділ 5
+ * [Принципи поділу на частини мови](/5lec/pryncipy_podilu.md)
+ * [Складні випадки визначення частин мови](/5lec/skladni_vypadki.md)
+
+## Розділ 6
+ * [Іменник як частина мови](/6lec/imennyk.md)
+ * [Рід відмінюваних іменників із нульовим закінченням](/6lec/rid_vidminuvanyh.md)
+ * [Рід невідмінюваних іменників](/6lec/rid_nevidminuvanyh.md)
+
+##  Розділ 7
+ * [Родовий відмінок](/7lec/rorovyi_vidminok.md)
+ * [Давальний відмінок](/7lec/davalnyi_vidminok.md)
+ * [Знахідний відмінок](/7lec/znahidnyi_vidminok.md)
+ * [Орудний відмінок](/7lec/orudnyi_vidminok.md)
+ * [Місцевий відмінок](/7lec/miscevyi_vidminok.md)
+ * [Кличний відмінок](/7lec/klychnyi_vidminok.md)
+ * [Творення та відмінювання імен по батькові](/7lec/imena_po_batkovi.md)
+ * [Відмінювання географічних назв](/7lec/geog_nazvy.md)
+ * [Іменники на означення осіб чоловічої та жіночої статі](/7lec/imenniki_na_oznachennya.md)

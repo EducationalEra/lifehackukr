@@ -184,3 +184,14 @@
 <td>валіза</td>
 </tr>
 </table>
+
+<quiz name="Запитання та завдання">
+<question>
+        <p>Правильно витлумачено слово:</p>
+        <answer correct> актуальний – злободенний</answer>
+        <answer> інноваційний – застарілий</answer>
+        <answer> експресивний – запопадливий</answer>
+        <answer> іммігрувати – виїхати</answer>
+        <answer> економічний – ощадливий</answer>
+    </question>
+</quiz>

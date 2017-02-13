@@ -56,3 +56,22 @@
   </td>
   </tr>
 </table>
+
+<quiz name="Запитання та завдання">
+<question>
+        <p>Спільнокореневими є слова рядка</p>
+        <answer correct> роздумувати, подумки, дума, роздум</answer>
+        <answer> людяний, привселюдно, людний, усезагальний</answer>
+        <answer> малюнок, мальований, малий, малюючи</answer>
+        <answer> гірше, гірко, грішно, погіршувати</answer>
+        <answer> водити, зневоднення, водиця, водовідвід</answer>
+    </question>
+<question>
+        <p>Схемі “префікс+корінь+суфікс+закінчення” відповідає слово</p>
+        <answer> навпочіпки</answer>
+        <answer correct> переписаний</answer>
+        <answer> особистий</answer>
+        <answer> передмова</answer>
+        <answer> охорона</answer>
+    </question>
+</quiz>
