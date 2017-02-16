@@ -13,34 +13,69 @@
 </center>
 
 <table>
-<tr><td></td><td></td><td>Значення</td><td>Питання</td><td></td><td></td></tr>
-
-<tr><td class="row-span" rowspan="6"><center><b> C<br>А<br>М<br>О<br>С<br>Т<br>І<br>Й<br>Н<br>І<br><br>6</b></center></td>
-<td><b>іменник</b></td><td><b>предмет, особа</b></td><td>хто? що?</td>
-<td class="row-span" rowspan="4"><center><b> І<br>М<br>Е<br>Н<br>Н<br>І<br><br>4</b></center></td>
-<td class="row-span" rowspan="5"><center><b> З<br>М<br>І<br>Н<br>Н<br>І<br><br>5</b></center></td></tr>
-
-<tr><td><b>прикметник</b></td><td>ознака предмета</td><td>який? чий?</td></tr>
-
-<tr><td><b>числівник</b></td><td>число, кількість, порядок при лічбі</td><td>скільки? котрий?</td></tr>
-
-<tr><td><b>займенник</b></td><td>вказує (але не називає) на предмет, ознаку, кількість</td><td>хто? що? який? чий? скільки? котрий?</td></tr>
-
-<tr><td><b>дієслово</b></td><td>дія або стан</td><td>що робити? що зробити?</td><td class="row-span" rowspan="2"><center><b> Д<br>І<br>Є<br>С<br>Л<br>І<br>В<br>Н<br>І<br><br>2</b></center></td></tr>
-
-<tr><td><b>прислівник</b></td><td>ознака дії, ознака ознаки, ознака предмета</td><td>як? коли? де? куди? звідки? для чого? навіщо? чому? яким способом? наскільки? </td><td class="row-span" rowspan="5"><center><b>Н<br>Е<br>З<br>М<br>І<br>Н<br>Н<br>І<br><br>5</b></center></td></tr>
-
-<tr><td class="row-span" rowspan="3"><center><b>С<br>Л<br>У<br>Ж<br>Б<br>О<br>В<br>І<br><br>3</b></center></td>
-<td> <b>прийменник</b></td><td>служить для зв’язку слів у словосполученні</td><td colspan="2" class="row-span" rowspan="4"><center>НЕ
-відповідають на питання
-</center></td></tr>
-
-<tr><td><b>сполучник</b></td><td>служить для зв’язку однорідних членів, простих речень у складному</td></tr>
-
-<tr><td><b>частка</b></td><td>служить для утворення окремих граматичних форм, надання відтінків значень</td></tr>
-
-<tr><td></td><td><b>вигук</b></td><td>виражає почуття і волевиявлення</td></tr>
+    <tr>
+        <td></td>
+        <td></td>
+        <td>Значення</td>
+        <td>Питання</td>
+        <td></td>
+        <td></td>
+    </tr>
+    <tr>
+        <td class="row-span" rowspan="6"><center><b> C<br>А<br>М<br>О<br>С<br>Т<br>І<br>Й<br>Н<br>І<br><br>6</b></center></td>
+        <td><b>іменник</b></td>
+        <td><b>предмет, особа</b></td>
+        <td>хто? що?</td>
+        <td class="row-span" rowspan="4"><center><b> І<br>М<br>Е<br>Н<br>Н<br>І<br><br>4</b></center></td>
+        <td class="row-span" rowspan="5"><center><b> З<br>М<br>І<br>Н<br>Н<br>І<br><br>5</b></center></td>
+    </tr>
+    <tr>
+        <td><b>прикметник</b></td>
+        <td>ознака предмета</td>
+        <td>який? чий?</td>
+    </tr>
+    <tr>
+        <td><b>числівник</b></td>
+        <td>число, кількість, порядок при лічбі</td>
+        <td>скільки? котрий?</td>
+    </tr>
+    <tr>
+        <td><b>займенник</b></td>
+        <td>вказує (але не називає) на предмет, ознаку, кількість</td>
+        <td>хто? що? який? чий? скільки? котрий?</td>
+    </tr>
+        <tr>
+        <td><b>дієслово</b></td>
+        <td>дія або стан</td><td>що робити? що зробити?</td>
+        <td class="row-span" rowspan="2"><center><b> Д<br>І<br>Є<br>С<br>Л<br>І<br>В<br>Н<br>І<br><br>2</b></center></td>
+    </tr>
+    <tr>
+        <td><b>прислівник</b></td>
+        <td>ознака дії, ознака ознаки, ознака предмета</td>
+        <td>як? коли? де? куди? звідки? для чого? навіщо? чому? яким способом? наскільки? </td>
+        <td class="row-span" rowspan="5"><center><b>Н<br>Е<br>З<br>М<br>І<br>Н<br>Н<br>І<br><br>5</b></center></td>
+    </tr>
+    <tr>
+        <td class="row-span" rowspan="3"><center><b>С<br>Л<br>У<br>Ж<br>Б<br>О<br>В<br>І<br><br>3</b></center></td>
+        <td> <b>прийменник</b></td>
+        <td>служить для зв’язку слів у словосполученні</td>
+        <td colspan="2" class="row-span" rowspan="4"><center>НЕ відповідають на питання</center></td>
+    </tr>
+    <tr>
+        <td><b>сполучник</b></td>
+        <td>служить для зв’язку однорідних членів, простих речень у складному</td>
+    </tr>
+    <tr>
+        <td><b>частка</b></td>
+        <td>служить для утворення окремих граматичних форм, надання відтінків значень</td>
+    </tr>
+    <tr>
+        <td></td>
+        <td><b>вигук</b></td>
+        <td>виражає почуття і волевиявлення</td>
+    </tr>
 </table>
+
 <br>
 <quiz name="Запитання та завдання">
 <question>
