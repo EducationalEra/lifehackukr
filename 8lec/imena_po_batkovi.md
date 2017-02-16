@@ -2,7 +2,7 @@
 
 <table>
   <tr><td width="20%"><center><b><i>Імена по батькові</center></i></b></td><td width="40%"><center><i><b>Суфікс</b></i></center></td><td><center><i><b>Відмінювання</b></i></center></td></tr>
-  <tr><td><i>чоловічі</i></td><td><center><h3>-ович (-йович), -ич, -іч</h3></center>
+  <tr><td><i>чоловічі</i></td><td><center><h3>-ович (-йович), -ич</h3></center>
 
 <p><i>Григорович, Ілліч, Якович,<br>
 Лукич (Лукович),<br>

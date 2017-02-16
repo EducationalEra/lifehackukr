@@ -19,7 +19,7 @@
 	<tr><td colspan="4"><center><b>Іменники ІII відміни</b></center></td></tr>
 	<tr><td bgcolor="#CFCFCF"><center>–</center></td><td><i>любове, радосте, молодосте, Аделе, Нінеле</i></td><td bgcolor="#CFCFCF"><center>–</center></td><td bgcolor="#CFCFCF"><center>–</center></td></tr>
 	<tr><td colspan="4"><center><b>УВАГА! ЗАПАМ’ЯТАЙ!</b></center></td></tr>
-	<tr><td colspan="2" class="row-span" rowspan="4"><b>Ігоре, Олегу, Іллє, Насте, женче, шевче</b> <br>
+	<tr><td colspan="2" class="row-span" rowspan="4"><b>Ігоре,Олегу,Іллє,Насте, женче, шевче</b> <br>
 Форми <i>«Ігорю», «Олеже», «Ілле»,</i> яких пропонують уживати деякі автори посібників, підручників, у чинному правописі не відображені.</td><td colspan="2"><b>загальна назва + загальна назва =<br> Кл.в. + Кл.в.</b> або <b>Кл.в. + Н.в.</b><br>
 <i>добродію опоненте і добродію опонент</i></td></tr>
 	<tr><td colspan="2"><b>загальна назва + ім’я = Кл.в. + Кл.в.</b><br>
