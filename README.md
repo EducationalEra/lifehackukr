@@ -47,8 +47,26 @@
  * [Відмінювання географічних назв](/7lec/geog_nazvy.md)
  * [Іменники на означення осіб чоловічої та жіночої статі](/7lec/imenniki_na_oznachennya.md)
 
-<!--
+
  ##  Розділ 8
  * [Прикметник](/8lec/prykmetnyk.md) 
  * [Ступені порівняння прикметників](/8lec/stupeni.md)
--->
+ * [Творення присвійних прикметників](/8lec/tvorennia_prysviinyh.md)
+ * [Творення прикметників за допомогою суфіксів -ов-, -ев- (-єв-)](/8lec/tvorennia_sufiksy.md)
+ * [Творення прикметникових форм від географічних назв](/8lec/prykmetnykovi_formy.md)
+ * [Відмінювання прикметників](/8lec/vidminuvannia_prykmetnykiv.md)
+ * [Займенник](/8lec/zaimennyk.md)
+
+
+ ##  Розділ 9
+ * [Числівник](/9lec/chyslivnyk.md)
+ * [Відмінювання числівників](/9lec/vidminuvannya_chuslivnukiv.md)
+ * [Зв’язок числівників із іменниками](/9lec/zvyazok_chislivnykiv.md)
+
+
+ ##  Розділ 10
+ * [Дієслово та його форми](/10lec/dieslovo.md)
+ * [Особові закінчення дієслів](/10lec/osobovi_zakinchennia.md)
+ * [Творення форм наказового способу](/10lec/tvorennia_form.md)
+ * [Дієприкметник](/10lec/dieprykmetnyk.md)
+ * [Дієприслівник](/10lec/diepryslivnyk.md)
