@@ -34,3 +34,21 @@
 
 </table>
 
+<quiz name="Запитання та завдання">
+<question>
+        <p>Є помилки в утворенні імен по батькові в рядку</p>
+        <answer> Іллівна, Лукич</answer>
+        <answer correct> Григор’ївна, Андрієвич</answer>
+        <answer> Юріївна, Аркадійович</answer>
+        <answer> Ярославівна, Миколович</answer>
+        <answer> Олексіївна, Тарасович</answer>
+    </question>
+    <question>
+        <p>Правильно утворені імена по батькові в рядку</p>
+        <answer> Євгенійович, Іллінічна</answer>
+        <answer> Ігоревич, Григоріївна</answer>
+        <answer correct> Аркадійович, Спиридонівна</answer>
+        <answer> Валерієвич, Аркадієвна</answer>
+        <answer> В’ячеславич, Романовна</answer>
+    </question>
+</quiz>

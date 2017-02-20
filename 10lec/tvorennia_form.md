@@ -113,3 +113,21 @@
 	</tr>
 </table>
 
+<quiz name="Запитання та завдання">
+<question>
+        <p>Дієслово у формі наказового способу вжито в рядку</p>
+        <answer> попросимо допомоги</answer>
+        <answer> перекладаємо текст</answer>
+        <answer> швидше пишемо</answer>
+        <answer correct> активніше робімо</answer>
+        <answer> почали працювати</answer>
+    </question>
+    <question>
+        <p>Форму наказового способу має дієслово в словосполученні</p>
+        <answer> негайно подають звіт</answer>
+        <answer> негайно подаємо звіт</answer>
+        <answer> негайно подати звіт</answer>
+        <answer correct> негайно подаймо звіт</answer>
+        <answer> треба негайно подати звіт</answer>
+    </question>
+</quiz>

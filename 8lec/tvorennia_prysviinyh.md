@@ -50,3 +50,14 @@
 	</tr>	
 </table>
 
+<quiz name="Запитання та завдання">
+<question>
+        <p>Суфікс <b>-ев-</b> має прикметник, утворений від слова</p>
+        <answer> край</answer>
+        <answer> кущ</answer>
+        <answer> палац</answer>
+        <answer correct> замша</answer>
+        <answer> вечір</answer>
+    </question>
+</quiz>
+
