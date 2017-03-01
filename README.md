@@ -70,3 +70,24 @@
  * [Творення форм наказового способу](/10lec/tvorennia_form.md)
  * [Дієприкметник](/10lec/dieprykmetnyk.md)
  * [Дієприслівник](/10lec/diepryslivnyk.md)
+
+
+ ##  Розділ 11
+ * [Головні члени речення](/11lec/golovni_chleni.md)
+ * [Другорядні члени речення](/11lec/drugoryadni_chleni.md)
+ * [Пряма мова](/11lec/pryama_mova.md)
+ * [Заміна прямої мови на непряму](/11lec/zmina_pramoi_movy.md)
+
+
+ ##  Розділ 12
+ * [Класифікація речень](/12lec/klasifikaciya_rechen.md)
+
+
+ ##  Розділ 13
+ * [Розділові знаки в простому ускладненову реченні](/13lec/rozdilovi_znaki.md)
+ * [Відокремлені члени речення](/13lec/weedokremleni_chleni.md)
+ * [Означення (ОЗ) й означуване слово (ОС)](/13lec/oz_i_os.md)
+ * [Прикладка](/13lec/prykladka.md)
+ * [Вставні та вставлені конструкції](/13lec/vstavni_ta_vstavleni.md)
+ * [Звертання](/13lec/zvertannya.md)
+ * [Типові помилки в словосполученнях і реченнях](/13lec/tipovi_pomilki.md)
